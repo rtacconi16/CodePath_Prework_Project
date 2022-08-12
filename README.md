@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='RT_TIPPER.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://user-images.githubusercontent.com/98859340/184271693-ff07d8b2-6358-42e1-90e8-16bd113c1699.mp4
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
